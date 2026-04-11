@@ -10,11 +10,6 @@
 
 <div align="center">
 
-### 💻 About Me
-I am a computer science engineer.
-
----
-
 ### 🚀 Tech Stack & Tools
 <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" />
