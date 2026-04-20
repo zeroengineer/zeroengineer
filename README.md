@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:122B4A,50:182129,100:122B4A&height=220&section=header&text=Devang&fontSize=90&fontColor=81A1C1&animation=fadeIn&fontAlignY=35&desc=Engineering%20Leadership%20·%20Infrastructure%20Systems%20·%20AI%20Builder&descSize=16&descAlignY=60&descColor=A3BE8C" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,7ee8a2,61dafb,bd34fe,ff3e00&height=240&section=header&text=Devang&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engineering%20Leadership%20·%20Infrastructure%20Systems%20·%20AI%20Builder&descSize=16&descAlignY=60&descColor=ffffff" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=81A1C1&center=true&vCenter=true&width=600&lines=Engineering+Resilient+%26+Scalable+Systems+%E2%9A%99%EF%B8%8F;Distributed+Architecture+%26+API+Design;Advanced+LLM+%26+AI+Systems+Integration;B.Tech+in+Computer+Science" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7EE8A2&center=true&vCenter=true&width=600&lines=Engineering+Resilient+%26+Scalable+Systems+%E2%9A%99%EF%B8%8F;Distributed+Architecture+%26+API+Design;Advanced+LLM+%26+AI+Systems+Integration;B.Tech+in+Computer+Science" />
 </p>
 
 ---
@@ -59,5 +59,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:122B4A,50:182129,100:122B4A&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,7ee8a2,61dafb,bd34fe,ff3e00&height=100&section=footer&flip=true"/>
 </p>
