@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=16a34a&height=120&section=header&animation=fadeIn" width="100%"/>
-
-# Hi, I'm Devang 👋
+![Devang](.github/header.svg)
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&size=20&pause=1000&color=16a34a&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+SaaS+that+matters;CS+Engineer+%7C+Kerala%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&size=16&pause=1000&color=16a34a&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;CS+Engineer+%7C+Building+SaaS+that+matters;React+%7C+Node.js+%7C+TypeScript" alt="Typing SVG" />
 </p>
 
 </div>
@@ -14,7 +12,7 @@
 
 ### About Me
 
-I'm a Computer Science graduate and full-stack developer based in Kerala, India. I build clean, scalable web products — from idea to deployment.
+I'm a Computer Science graduate and full-stack developer. I build clean, scalable web products — from idea to deployment.
 
 - 🎓 CS/Engineering Graduate
 - 🌱 Deep diving into AI integrations, vector search & multi-platform SaaS
