@@ -50,11 +50,6 @@ Clean architecture, sharp developer experience, and shipping things that actuall
 
 ---
 
-## building
-
-> **[Snaptiqz](https://snaptiqz.com)** — live event ticketing & management platform
-
----
 
 ## connect
 
