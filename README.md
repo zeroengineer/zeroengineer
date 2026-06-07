@@ -1,65 +1,61 @@
 <div align="center">
-  <img src="header.svg" alt="Devang" width="100%"/>
+
+![Devang](.github/header.svg)
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&size=16&pause=1000&color=16a34a&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;CS+Engineer+%7C+Building+SaaS+that+matters;React+%7C+Node.js+%7C+TypeScript" alt="Typing SVG" />
+</p>
+
 </div>
 
-<br/>
+---
+
+### About Me
+
+I'm a Computer Science graduate and full-stack developer. I build clean, scalable web products — from idea to deployment.
+
+- 🎓 CS/Engineering Graduate
+- 🌱 Deep diving into AI integrations, vector search & multi-platform SaaS
 
 ---
 
-## about
-
-```yaml
-role      : Software Engineer
-location  : Kerala, India
-status    : Building SaaS products
-focus     : Full-stack · Product architecture
-```
-
-I design and build end-to-end SaaS products — from database schema to deployed UI.
-Clean architecture, sharp developer experience, and shipping things that actually work.
-
----
-
-## stack
-
-**Languages**
-&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### Tech Stack
 
 **Frontend**
-&nbsp;
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend**
-&nbsp;
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**Database & ORM**
-&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 
-**AI**
-&nbsp;
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
+**Tools & Infra**
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+**AI / ML**
 
-## connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/devangcv)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iamdevangcv@gmail.com)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF6B35?style=flat-square&logoColor=white)
 
 ---
+
+### Connect
+
+<p>
+  <a href="mailto:iamdevangcv@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/devangcv"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-16a34a?style=flat-square&logo=vercel&logoColor=white"/></a>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&rank_icon=github" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af" height="150"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=16a34a&height=80&section=footer&animation=fadeIn" width="100%"/>
 </div>
